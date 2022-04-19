@@ -1,5 +1,5 @@
 
-# HesapMakinesi Kurulum , İnceleme ve Düzenleme 
+# Calculator Kurulum , İnceleme ve Düzenleme 
 
 ## termux/linux yüklemek çalıştırmak ##
 
@@ -9,9 +9,9 @@
 `$ apt-get install python`
 [Y-N] sorarsa Y yazın entera basin
 
-`$ git clone https://github.com/Piersym667/HesapMakinesi/`
+`$ git clone https://github.com/Piersym667/Calculator/`
 
-`$ cd HesapMakinesi/`
+`$ cd Calculator/`
 
 `$ python hesap.py`
 
@@ -25,9 +25,9 @@
 `$ apt-get install nano`
 [Y-N] sorarsa Y yazin entera basin
 
-`$ git clone https://github.com/Piersym667/HesapMakinesi/`
+`$ git clone https://github.com/Piersym667/Calculator/`
 
-`$ cd HesapMakinesi/`
+`$ cd Calculator/`
 
 `$ nano hesap.py`
 
@@ -37,7 +37,7 @@
 
 `$ cd`
 
-`$ mv HesapMakinesi /storage/emulated/0/download/`
+`$ mv Calculator /storage/emulated/0/download/`
 (download klasörüne taşındı)
 
 # CONTACT
@@ -46,4 +46,4 @@
 
 https://instagram.com/piersym667
 
-**v1.2**
+**v1.3**
