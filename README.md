@@ -40,10 +40,4 @@
 `$ mv Calculator /storage/emulated/0/download/`
 (download klasörüne taşındı)
 
-# CONTACT
-
-**İnstagramım:**
-
-https://instagram.com/piersym667
-
 **v1.3**
